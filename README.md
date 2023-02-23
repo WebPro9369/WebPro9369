@@ -9,5 +9,5 @@ I've already worked for several companies, from startups to large firms, where I
 ### Achievements
 
 #### :one:  1000+ Pull Requests merged
-#### :two:  2000+ Commits in the last year alone
+#### :two:  2000+ Contributions in the last year alone
 #### :three:  50+ Projects contributed to
