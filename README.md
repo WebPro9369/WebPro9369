@@ -5,3 +5,9 @@ This is Reo, an expert senior software engineer with 14 years of experience in J
 I'm specialized in delivering top-notch software solutions with a focus on quality and efficiency and able to lead the entire software development process - from designing architecture to managing product releases. 
 
 I've already worked for several companies, from startups to large firms, where I honed my skills in web development and gained a deep understanding of the latest technologies and best practices.
+
+### Achievements
+
+#### :one: 1000+ Pull Requests merged
+#### :two: 2000+ Commits in the last year alone
+#### :three: 50+ Projects Contributed to
