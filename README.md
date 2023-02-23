@@ -10,4 +10,4 @@ I've already worked for several companies, from startups to large firms, where I
 
 #### :one:  1000+ Pull Requests merged
 #### :two:  2000+ Commits in the last year alone
-#### :three:  50+ Projects Contributed to
+#### :three:  50+ Projects contributed to
