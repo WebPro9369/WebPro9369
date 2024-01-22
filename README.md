@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Reo, an expert senior software engineer with 14 years of experience in JavaScript, TypeScript, Ruby, Python and libraries/frameworks such as React.js, Node.js, and Ruby on Rails.
+I am an expert senior software engineer with 14 years of experience in JavaScript, TypeScript, Ruby, Python and libraries/frameworks such as React.js, Node.js, and Ruby on Rails.
 
 I'm specialized in delivering top-notch software solutions with a focus on quality and efficiency and able to lead the entire software development process - from designing architecture to managing product releases. 
 
